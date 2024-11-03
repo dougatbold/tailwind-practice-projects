@@ -1,11 +1,6 @@
-# Tailwind From Scratch Course Projects
+# Tailwind Practice Projects
 
-This is the main repository for all of the projects in the course
-
-This does not include the sandbox. That can be found [here](https://github.com/bradtraversy/tailwind-sandbox)
-
-- [Course Link]()
-- [Course Info Website](https://tailwindfromscratch.com)
+This is the main repository for all tailwind practice projects.
 
 |  #  |                                                         Project                                                          |                                           Live Demo                                           |
 | :-: | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------: |
