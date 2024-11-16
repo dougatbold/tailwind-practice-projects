@@ -1,0 +1,20 @@
+{
+  "name": "tailwind-course-projects",
+  "version": "1.0.0",
+  "description": "This is the main repository for all tailwind practice projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougatbold/tailwind-practice-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougatbold/tailwind-practice-projects/issues"
+  },
+  "homepage": "https://github.com/dougatbold/tailwind-practice-projects#readme"
+}
